@@ -7,13 +7,13 @@ Usage
 -Clone the Repository:
 
 ```bash
-git clone https://github.com/Type2Tech/Shellcode-Generator.git
+git clone https://github.com/Type2Tech/Shellcode-Generator.git](https://github.com/blackmagic2023/Windows-x64---PIC-Null-Free-TCP-Reverse-Shell-Shellcode.git
 ```
 
 -Navigate to the Directory:
 
 ```bash
-cd Shellcode-Generator
+cd Windows-x64---PIC-Null-Free-TCP-Reverse-Shell-Shellcode
 ```
 
 - Run the Script:
